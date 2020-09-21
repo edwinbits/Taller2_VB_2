@@ -1,0 +1,56 @@
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe.config
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.pdb
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.xml
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbprojAssemblyReference.cache
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.Resources.resources
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.exe
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.xml
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.pdb
+\\Mac\Home\Documents\Desarrollo de Software VIII\Asignaciones\Talleres\Taller02_Equipo4\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frmPP.resources
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe.config
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.pdb
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.xml
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbprojAssemblyReference.cache
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frmPP.resources
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm1.resources
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.Resources.resources
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.GenerateResource.cache
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.CoreCompileInputs.cache
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.exe
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.xml
+C:\Users\EdwinPC\Source\Repos\edwinbits\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.pdb
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe.config
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.pdb
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.xml
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frmPP.resources
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm1.resources
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.Resources.resources
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.exe
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.xml
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.pdb
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm2.resources
+\\Mac\Home\Documents\GitHub\Taller2_VB\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm3.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe.config
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.exe
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.pdb
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\bin\Debug\Taller_02_Lopez_Perrando.xml
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbprojAssemblyReference.cache
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frmPP.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm1.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm2.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.frm3.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.Resources.resources
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.GenerateResource.cache
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.vbproj.CoreCompileInputs.cache
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.exe
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.xml
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.pdb
+C:\Users\EdwinPC\Desktop\Utp\Semestre 6\DS8\Taller2_VB_2\Taller_02_Lopez_Perrando\Taller_02_Lopez_Perrando\obj\Debug\Taller_02_Lopez_Perrando.SplashScreen1.resources
