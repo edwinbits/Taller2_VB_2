@@ -89,13 +89,13 @@ Partial Class frmPP
         Me.txtIns.BackColor = System.Drawing.Color.White
         Me.txtIns.Font = New System.Drawing.Font("Tahoma", 10.125!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtIns.Location = New System.Drawing.Point(61, 68)
-        Me.txtIns.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.txtIns.Margin = New System.Windows.Forms.Padding(2)
         Me.txtIns.Multiline = True
         Me.txtIns.Name = "txtIns"
         Me.txtIns.ReadOnly = True
         Me.txtIns.Size = New System.Drawing.Size(444, 240)
         Me.txtIns.TabIndex = 13
-        Me.txtIns.Text = "AQUI VA LA INSTRUCCION"
+        Me.txtIns.Text = resources.GetString("txtIns.Text")
         Me.txtIns.Visible = False
         '
         'lblLDS
@@ -165,7 +165,7 @@ Partial Class frmPP
         Me.btnRegPP.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnRegPP.Font = New System.Drawing.Font("Tahoma", 7.875!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnRegPP.Location = New System.Drawing.Point(61, 342)
-        Me.btnRegPP.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnRegPP.Margin = New System.Windows.Forms.Padding(2)
         Me.btnRegPP.Name = "btnRegPP"
         Me.btnRegPP.Size = New System.Drawing.Size(82, 32)
         Me.btnRegPP.TabIndex = 19
@@ -180,7 +180,7 @@ Partial Class frmPP
         Me.btnIns.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnIns.Font = New System.Drawing.Font("Tahoma", 7.875!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnIns.Location = New System.Drawing.Point(61, 342)
-        Me.btnIns.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnIns.Margin = New System.Windows.Forms.Padding(2)
         Me.btnIns.Name = "btnIns"
         Me.btnIns.Size = New System.Drawing.Size(82, 32)
         Me.btnIns.TabIndex = 20
@@ -194,7 +194,7 @@ Partial Class frmPP
         Me.btnSig.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnSig.Font = New System.Drawing.Font("Tahoma", 7.875!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnSig.Location = New System.Drawing.Point(418, 342)
-        Me.btnSig.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnSig.Margin = New System.Windows.Forms.Padding(2)
         Me.btnSig.Name = "btnSig"
         Me.btnSig.Size = New System.Drawing.Size(82, 32)
         Me.btnSig.TabIndex = 21
@@ -223,7 +223,7 @@ Partial Class frmPP
         Me.Controls.Add(Me.lblIns)
         Me.DoubleBuffered = True
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "frmPP"
         Me.Text = "Pagina de Presentacion"
         Me.ResumeLayout(False)

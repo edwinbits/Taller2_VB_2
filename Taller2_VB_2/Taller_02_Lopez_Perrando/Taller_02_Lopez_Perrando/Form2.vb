@@ -3,7 +3,7 @@
     Private Sub btnID_Click(sender As Object, e As EventArgs) Handles btnID.Click
         'Recibira el nombre desde un InputBox y mostrara lo ingresado'
         Dim nombre As String
-        Dim nombres2(7) As String
+        Dim nombres2(10) As String
         Dim i As Integer
 
         nombre = InputBox("Ingrese Nombre", "Registro de Datos Personales", "", 100, 50)
@@ -16,7 +16,7 @@
                 i = i + 1
             End While
 
-            txtNombres.Text = nombres2(0) + vbCrLf + nombres2(1) + vbCrLf + nombres2(2) + vbCrLf + nombres2(3) + vbCrLf + nombres2(4) + vbCrLf + nombres2(5) + vbCrLf + nombres2(6)
+            txtNombres.Text = nombres2(0) + vbCrLf + nombres2(1) + vbCrLf + nombres2(2) + vbCrLf + nombres2(3) + vbCrLf + nombres2(4) + vbCrLf + nombres2(5) + vbCrLf + nombres2(6) + vbCrLf + nombres2(7) + vbCrLf + nombres2(8) + vbCrLf + nombres2(9)
 
         End If
 
